@@ -35,7 +35,7 @@ const appConfig: AppConfig = {
 }
 ```
 
-apiPrefix là đường dẫn trỏ đến backend 2. Cấu hình các biến môi trường trong file .env
+apiPrefix là đường dẫn trỏ đến backend
 
 ## Chạy
 
